@@ -1,0 +1,10 @@
+next-env.d.ts
+node_modules/
+.env
+.env.local
+.env*.local
+.DS_Store
+*.pem
+.git/
+coverage/
+.next/
